@@ -1,6 +1,6 @@
 package day44_AccessModifiers;
 
-public class BankAccount {
+public class BankAccount {//tamam
 	
 	/*
 	 WarmUp: create a custom class for bankaccount

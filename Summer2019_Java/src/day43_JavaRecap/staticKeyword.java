@@ -2,11 +2,14 @@ package day43_JavaRecap;
 
 public class staticKeyword {
 	
-	public String InsName ="Filiz";
+ public String InsName ="Filiz";
 	 
 	public static String StaName = "Nurzat";
 	
 	public static void printName() {
+		
+		
+		
 		//System.out.println(InsName);  // static only accepts static
 		System.out.println( StaName ); // static only accepts static
 		

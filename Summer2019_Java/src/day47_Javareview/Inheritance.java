@@ -17,7 +17,7 @@ class A {
 
 class B extends A{
 	
- // public String name1 = "Ayaz"; // Feride
+  public String name1 = "Ayaz"; // Feride
 	public String name2 = "Sukran";
 	public String name3 = "Erhan";
 	
@@ -26,10 +26,12 @@ class B extends A{
 	}
 	
 	public void method1() {
-		super.name1 ="Feride";
+	super.name1 ="Feride";
+		
 		super.mm();
 		super.N();
 		this.J();
+	System.out.println(name1);
 	}
 	
 }
@@ -73,7 +75,8 @@ public class Inheritance  extends B {
 	//	System.out.println( obj3.name5  );  //super class cannot inherit anything from the sub class
 		
 		
-		
+		B k=new B();
+		k.method1();
 		
 		
 		

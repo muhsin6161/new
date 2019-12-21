@@ -19,6 +19,13 @@ public class Practice extends parent {
 	public static void main(String[] args) {
 		Practice obj = new Practice();
 		
+	
+	
+	
+	SuperKeyWord okj=new SuperKeyWord();
+	okj.method();
+	
+	System.out.println(okj.name);
 	}
 	
 	

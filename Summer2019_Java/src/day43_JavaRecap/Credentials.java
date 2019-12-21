@@ -1,6 +1,6 @@
 package day43_JavaRecap;
 
-public class Credentials {
+public class Credentials {//tamam
 
 	/*
 	 	username
